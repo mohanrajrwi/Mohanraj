@@ -67,6 +67,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://julietscastle.com/images/fb.png</loc>
+    <lastmod>2016-06-27</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://julietscastle.com/index.html</loc>
     <lastmod>2016-06-23</lastmod>
     <changefreq>weekly</changefreq>
@@ -86,7 +92,7 @@
   </url>
   <url>
     <loc>http://julietscastle.com/menu.html</loc>
-    <lastmod>2016-06-26</lastmod>
+    <lastmod>2016-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
