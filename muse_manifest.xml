@@ -1,0 +1,46 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="julietscastle.com" resolutions="1x" timestamp="1467021108648">
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_a-master.css" crc="4219469368" ref="index"/>
+    <file name="master_b-master.css" crc="4118941588" ref="about-us:past-events:home:contact-us:menu"/>
+    <file name="about-us.css" crc="328049750" ref="about-us"/>
+    <file name="past-events.css" crc="328049750" ref="past-events"/>
+    <file name="home.css" crc="4112457368" ref="home"/>
+    <file name="contact-us.css" crc="4237730304" ref="contact-us"/>
+    <file name="menu.css" crc="328049750" ref="menu"/>
+    <file name="index.css" crc="443198871" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:home:about-us:menu:past-events:contact-us"/>
+    <file name="museutils.js" crc="3790713428" ref="index:home:about-us:menu:past-events:contact-us"/>
+    <file name="whatinput.js" crc="84559013" ref="index:home:about-us:menu:past-events:contact-us"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:home:about-us:menu:past-events:contact-us"/>
+    <file name="webpro.js" crc="329496574" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="touchswipe.js" crc="497316881" ref="home:about-us:menu:past-events:contact-us"/>
+  </folder>
+  <folder name="images">
+    <file name="intro.swf" crc="39673311" ref="index"/>
+    <file name="hsplit.gif" crc="124416015" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="julie_01.png" crc="4289791903" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="menu.swf" crc="149083023" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="blank.gif" crc="4208392903" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="slide.jpg" crc="205874593" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="slide1.jpg" crc="4209765002" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="slide2.jpg" crc="508597541" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="slide3.jpg" crc="293858613" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="slide4.jpg" crc="3863510340" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="slide5.jpg" crc="81394258" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="slide6.jpg" crc="3831256862" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="slide7.jpg" crc="301453504" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="slide8.jpg" crc="4287644823" seo="true" ref="home:about-us:menu:past-events:contact-us"/>
+    <file name="loading.gif" crc="3815509949" ref="home:contact-us"/>
+  </folder>
+  <file name="index.html" crc="4233907580" seo="true" mt="1466665123582" redirect="true"/>
+  <file name="home.html" crc="3993582716" seo="true" mt="1466951921144" redirect="true"/>
+  <file name="about-us.html" crc="14035559" seo="true" mt="1466951921144" redirect="true"/>
+  <file name="menu.html" crc="3956217572" seo="true" mt="1466951921144" redirect="true"/>
+  <file name="past-events.html" crc="149405831" seo="true" mt="1466951921144" redirect="true"/>
+  <file name="contact-us.html" crc="376981758" seo="true" mt="1467020894802" redirect="true"/>
+</manifest>

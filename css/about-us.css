@@ -1,0 +1,189 @@
+.version.about_us /* version checker */
+{
+	color: #000013;
+	background-color: #8DA456;
+}
+
+#muse_css_mq
+{
+	background-color: #FFFFFF;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 878.8695928753182px;
+	border-width: 0px;
+	border-color: #000000;
+	padding-bottom: 0px;
+	width: 100%;
+	max-width: 960px;
+	margin-left: auto;
+	margin-right: auto;
+	background: transparent url("../images/hsplit.gif") repeat-x center bottom;
+}
+
+#page_position_content
+{
+	padding-bottom: 7px;
+	width: 100%;
+}
+
+#u128
+{
+	z-index: 3;
+	position: relative;
+	width: 31.25%;
+	margin-left: 2.09%;
+}
+
+#u121
+{
+	z-index: 2;
+	height: 47px;
+	margin-top: 11px;
+	position: relative;
+	width: 95.84%;
+	margin-left: 2.09%;
+}
+
+#slideshowu138
+{
+	z-index: 5;
+	width: 0.01px;
+	height: 248px;
+	position: relative;
+	margin-left: 2.92%;
+}
+
+#u143
+{
+	position: absolute;
+	width: 912px;
+	height: 248px;
+}
+
+#u143popup
+{
+	z-index: 6;
+}
+
+#u148
+{
+	z-index: 7;
+	width: 912px;
+	height: 248px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u300
+{
+	z-index: 9;
+	width: 912px;
+	height: 248px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u300_img
+{
+	margin-left: -30px;
+	margin-right: -31px;
+}
+
+#u320
+{
+	z-index: 11;
+	width: 912px;
+	height: 248px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u340
+{
+	z-index: 13;
+	width: 912px;
+	height: 248px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u360
+{
+	z-index: 15;
+	width: 912px;
+	height: 248px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u380
+{
+	z-index: 17;
+	width: 912px;
+	height: 248px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u400
+{
+	z-index: 19;
+	width: 912px;
+	height: 248px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u420
+{
+	z-index: 21;
+	width: 912px;
+	height: 248px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u440
+{
+	z-index: 23;
+	width: 912px;
+	height: 248px;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u148_img,#u320_img,#u340_img,#u360_img,#u380_img,#u400_img,#u420_img,#u440_img
+{
+	margin-left: -21px;
+	margin-right: -21px;
+}
+
+#u480
+{
+	z-index: 25;
+	margin-top: 455px;
+	position: relative;
+	width: 0.11%;
+	left: -1.98%;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+	padding-bottom: 27px;
+}
+
+#u128_img,#u480_img
+{
+	width: 100%;
+}
+
